@@ -17,7 +17,9 @@ function divide(a, b) {
   return a / b
 }
 
-a++
+function inc() {
+  
+}
 
 add(1,2);
 subtract(1,2);
