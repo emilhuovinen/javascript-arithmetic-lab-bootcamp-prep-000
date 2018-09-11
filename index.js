@@ -25,7 +25,7 @@ function dec(a) {
 }
 
 function makeInt(n) {
-  return makeInt(a.toString)
+  return parseInt(n)
 }
 
 add(1,2);
@@ -34,3 +34,5 @@ multiply(1,2);
 divide(1,2);
 inc(1);
 dec(1);
+makeInt(3);
+
