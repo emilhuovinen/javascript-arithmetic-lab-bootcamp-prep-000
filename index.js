@@ -1,4 +1,4 @@
-var a;
+var a, b
 
 function add(a, b) {
   (a + b)
@@ -16,4 +16,4 @@ function divide(a, b) {
   console.log(a / b);
 }
 
-add(,2);
+add(1,2);
