@@ -24,6 +24,9 @@ function dec(a) {
   return a - 1
 }
 
+function makeInt(n) {
+  
+}
 
 add(1,2);
 subtract(1,2);
