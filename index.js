@@ -28,7 +28,7 @@ function makeInt(n) {
   return parseInt(n, 10)
 }
 
-function preserveDecimals(n) {
+function preserveDecimal(n) {
   parseFloat(n)
 }
 
@@ -39,4 +39,4 @@ divide(1,2);
 inc(1);
 dec(1);
 makeInt(1);
-preserveDecimals('3.124');
+preserveDecimal('3.124');
