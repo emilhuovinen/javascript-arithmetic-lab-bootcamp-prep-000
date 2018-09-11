@@ -16,6 +16,10 @@ function divide(a, b) {
   return a / b
 }
 
+a++
+
+a--
+
 add(1,2);
 subtract(1,2);
 multiply(1,2);
