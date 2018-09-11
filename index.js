@@ -20,6 +20,9 @@ function inc(a) {
  return a + 1
 }
 
+function dec(a) {
+  return a - 1
+}
 
 
 add(1,2);
@@ -27,3 +30,4 @@ subtract(1,2);
 multiply(1,2);
 divide(1,2);
 inc(1);
+dec(1);
