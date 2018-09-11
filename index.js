@@ -17,11 +17,12 @@ function divide(a, b) {
   return a / b
 }
 
-function inc() {
-  
+function inc(a) {
+  a++
 }
 
 add(1,2);
 subtract(1,2);
 multiply(1,2);
 divide(1,2);
+inc(1);
