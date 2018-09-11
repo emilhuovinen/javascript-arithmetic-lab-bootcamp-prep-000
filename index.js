@@ -2,16 +2,15 @@ function add(a, b) {
   a + b
 }
 
-function subtract() {
+function subtract(a, b) {
   a - b
 }
 
-function multiply() {
+function multiply(a, b) {
   a * b
 }
 
-function divide() {
-  a / b
+function divide(a, b) {
+  console.log(a / b);
 }
 
-add(a, b);
