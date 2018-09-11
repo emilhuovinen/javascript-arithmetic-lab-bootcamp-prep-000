@@ -39,4 +39,4 @@ divide(1,2);
 inc(1);
 dec(1);
 makeInt(1);
-preserveDecimal(2);
+preserveDecimal(2.222);
