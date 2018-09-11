@@ -36,5 +36,5 @@ multiply(1,2);
 divide(1,2);
 inc(1);
 dec(1);
-makeInt('nonsense!');
+makeInt('1');
 
