@@ -1,5 +1,5 @@
 function add(a, b) {
-  1 + 2
+  a + b
 }
 
 function subtract() {
@@ -13,3 +13,5 @@ function multiply() {
 function divide() {
   a / b
 }
+
+add(a, b);
